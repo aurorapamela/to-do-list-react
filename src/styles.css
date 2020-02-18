@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list {
+  border: 1px;
+  background-color: red;
+  width: 60px;
+}
+
+.sin {
+  list-style: none;
+}
+
+button {
+  background-color: blue;
+  border: 1px solid;
+}
